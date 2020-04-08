@@ -4,8 +4,8 @@
    modified by Digital Siam
 */
 #include <TridentTD_LineNotify.h>
-#define SSID        "WIFI"
-#define PASSWORD    "PASSWORD"
+#define SSID        "parichat"
+#define PASSWORD    "parichat2543"
 #define LINE_TOKEN  "TOKEN"
 
 void setup(){
